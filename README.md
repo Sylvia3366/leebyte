@@ -1,7 +1,7 @@
-# tamagotchi-pcb
-A different take on the famous tamagotchi pet. I made this project as a start point to my hardware journey.
+# leebyte
+A mischevious tamagotchi pet bunny. I made this project as a start point to my hardware journey.
 
-This project takes tamagotchi to another level by adding a minature PSP1000 joystick that will allow the player to move their pet around and play certain games. It also includes a temperature sensing feature that will cause the pet to have different interactions based on your enviornment. 
+This project incorporates a 2-axis analog thumb joystick (specifically, for the sony PSP1000) that will allow the player to move their pet around and play certain games. There are also the typical three buttons on the right side. Additionally, it includes a temperature sensing feature that will cause the pet to have different interactions based on your enviornment. 
 
 - Pictures of your project:
   - A screenshot of a full 3D model of your project
