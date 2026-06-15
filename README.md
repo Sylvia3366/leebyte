@@ -1,4 +1,4 @@
-# Leebyte
+# LEEBYTE™
 <img width="1688" height="2588" alt="Copy of fallout_zine_template pdf-2" src="https://github.com/user-attachments/assets/985ffba0-0eb9-49ae-b0b4-a6fce2dc5185" />
 
 # What is it?
