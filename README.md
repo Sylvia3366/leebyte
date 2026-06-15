@@ -1,5 +1,5 @@
 # Leebyte
-<img width="1688" height="2588" alt="Copy of fallout_zine_template pdf-2" src="https://github.com/user-attachments/assets/2c880745-c86d-4cb1-9830-17e4679d3864" />
+[Copy of fallout_zine_template.pdf.pdf](https://github.com/user-attachments/files/28938735/Copy.of.fallout_zine_template.pdf.pdf)
 
 # What is it?
 A mischevious tamagotchi pet bunny you can play with, take care of, bully, or put in your pocket and forget about for twenty years!
