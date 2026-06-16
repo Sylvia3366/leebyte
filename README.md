@@ -7,7 +7,7 @@ LEEBYTE is a mischevious tamagotchi pet bunny you can play with, take care of, b
 # Why did I make it?
 I made this project as a start point to my hardware journey! While starting with an odd, rabbit head PCB may not have been the best idea, it challenged me a lot. 
 
-My main motivation after seeing the guide for it on Fallout website was the existing Leebit Tamagotchi. It's way out of my budget though, so I thought this would be the perfect chance for me to design one myself, and customize it to my own liking! Additionally, I've been wanting to get into pixel art for a while, and this project let me experiment with drawing so many different expressions and actions.
+My main motivation after seeing the guide for it on Fallout website was the existing Leebit Tamagotchi (https://kplaceshop.com/products/stray-kids-skzoo-tamagotchi-case-set?variant=51409921999166). It's way out of my budget though, so I thought this would be the perfect chance for me to design one myself, and customize it to my own liking! Additionally, I've been wanting to get into pixel art for a while, and this project let me experiment with drawing so many different expressions and actions.
 
 # How does it work?
 LEEBYTE is unlike the usual 3-button tamagotchi pet; he can move! Using the joystick, you can take LEEBYTE on adventures and perhaps, you'll even find some cool treasures along the way... 
@@ -52,7 +52,29 @@ Rendered on Fusion360!
 | M2 5mm Standoff | 2 | pcs | 0.15 | 0.30 | [Link](https://www.aliexpress.us/item/3256804631738035.html?spm=a2g0o.productlist.main.3.27df7FLe7FLecQ&algo_pvid=a1cec274-0704-4a88-9dbf-f241cd892cef&algo_exp_id=a1cec274-0704-4a88-9dbf-f241cd892cef-2&pdp_ext_f=%7B%22order%22%3A%221094%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%212.82%210.99%21%21%2118.99%216.65%21%40210328c017815809013504491eae18%2112000030604050905%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A77172365%3Bm03_new_user%3A-29895%3BpisId%3A5000000207269582&curPageLogUid=MSKdAPBWv7wd&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005004818052787%7C_p_origin_prod%3A) |
 | M2 Hex Nut | 2 | pcs | 0.07 | 0.14 | [Link](https://www.aliexpress.us/item/3256806284464354.html?src=google&snps=y&src=google&albch=shopping&acnt=708-803-3821&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&albagn=888888&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=en3256806284464354&ds_e_product_merchant_id=5387743504&ds_e_product_country=US&ds_e_product_language=en&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=20542171667&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=18545443176&gbraid=0AAAAAD6I-hEGa4vCjbQEz_fnmZhTeNZeX&gclid=CjwKCAjwxb7RBhA5EiwAQ-AAdD-HXltEgTpntjXNdXBa80Wk7a0wUIqDG94LwPP-CMFiyOFLLrmMeBoC3qQQAvD_BwE&gatewayAdapt=glo2usa) |
 | Battery | 1 | pcs | 6.19 | 6.19 | [Link](https://www.aliexpress.us/item/3256808658204287.html?src=google&src=google&albch=shopping&acnt=708-803-3821&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&albagn=888888&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=en3256808658204287&ds_e_product_merchant_id=5400930617&ds_e_product_country=US&ds_e_product_language=en&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=20269108796&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=20273564092&gbraid=0AAAAAD6I-hFVND5kqPKAMyRJSA8DM1GwA&gclid=CjwKCAjwxb7RBhA5EiwAQ-AAdCwQ6QvxVImRKQUVZZYXdy-omDGe5HRKqs4brvn1Da7SUtQTNn7_DxoCEwsQAvD_BwE&gateway) |
+| PLA 3D Printed Case | 1 | pcs | - | - | 
 | **Total** | **25** | **-** | **-** | **29.62** | **-** |
 
-
 # Build & Assembly
+Required Tools
+-
+> Solder
+> Soldering iron
+> Tweezers
+> Screwdriver for M3/M2/M1.6 screws
+> Computer w. a USB port
+> 3D printer
+
+Assembly
+-
+1. Solder all parts onto the PCB.
+2. Secure the button caps onto the tact switches.
+3. Secure the joystick with 2 M2 5mm screws, M2 standoffs, and M2 hex nuts.
+4. Place the battery in the open part below the bottom case.
+5. Place PCB into the bottom case and wire to battery.
+6. Secure the PCB with 3 M3 screws.
+7. Place the top case over the bottom and secure with the M1.6 screws.
+8. Use Arduino IDE for the firmware.
+9. Connect the ESP32 to your computer via USB-C to upload code.
+10. Upload firmware.
+11. Test the OLED display and test the joystick inputs.
