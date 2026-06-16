@@ -1,0 +1,21 @@
+# KiCad files
+*.bak
+*-bak
+*.tmp
+*.log
+*.pro.user
+*.kicad_pcb-bak
+
+# CAD/3D files
+*.step
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Project folders
+build/
+dist/
+__pycache__/
+.vscode/
+.idea/
