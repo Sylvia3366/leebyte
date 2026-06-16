@@ -7,7 +7,7 @@ LEEBYTE is a mischevious tamagotchi pet bunny you can play with, take care of, b
 # Why did I make it?
 I made this project as a start point to my hardware journey! While starting with an odd, rabbit head PCB may not have been the best idea, it challenged me a lot. 
 
-My main motivation after seeing the guide for it on Fallout website was the existing Leebit Tamagotchi (https://kplaceshop.com/products/stray-kids-skzoo-tamagotchi-case-set?variant=51409921999166). It's way out of my budget though, so I thought this would be the perfect chance for me to design one myself, and customize it to my own liking! Additionally, I've been wanting to get into pixel art for a while, and this project let me experiment with drawing so many different expressions and actions.
+My main motivation after seeing the guide for it on Fallout website was the existing Leebit Tamagotchi ([See here!]https://kplaceshop.com/products/stray-kids-skzoo-tamagotchi-case-set?variant=51409921999166). It's way out of my budget though, so I thought this would be the perfect chance for me to design one myself, and customize it to my own liking! Additionally, I've been wanting to get into pixel art for a while, and this project let me experiment with drawing so many different expressions and actions.
 
 # How does it work?
 LEEBYTE is unlike the usual 3-button tamagotchi pet; he can move! Using the joystick, you can take LEEBYTE on adventures and perhaps, you'll even find some cool treasures along the way... 
