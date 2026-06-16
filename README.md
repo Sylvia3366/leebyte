@@ -3,7 +3,6 @@
 
 
 [FULL ONSHAPE CAD](https://cad.onshape.com/documents/775b1919785149165ef0f27a/w/a0b05a09ec9f946b8b8a4a30/e/c002d06697f726d420ef8c8a?renderMode=0&uiState=6a30e3ebf65bd0542a2a9bc9)
--
 
 # What is it?
 LEEBYTE is a mischevious tamagotchi pet bunny you can play with, take care of, bully, or put in your pocket and forget about for the next twenty years! It features a 2-axis joystick, three Jureumi themed buttons, and a temperature sensor that will cause LEEBYTE to have different reactions based on your enviornment :)!
