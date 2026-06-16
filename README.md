@@ -58,12 +58,12 @@ Rendered on Fusion360!
 # Build & Assembly
 Required Tools
 -
-> Solder
-> Soldering iron
-> Tweezers
-> Screwdriver for M3/M2/M1.6 screws
-> Computer w. a USB port
-> 3D printer
+1. Solder
+2. Soldering iron
+3. Tweezers
+4. Screwdriver for M3/M2/M1.6 screws
+5. Computer w. a USB port
+6. 3D printer
 
 Assembly
 -
