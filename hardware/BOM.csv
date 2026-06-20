@@ -1,17 +1,17 @@
 Name,Qty,Unit,Price (USD),Total (USD),Source
-Seeed Studio XIAO ESP32 C3,1,pcs,8.04,8.04,https://www.aliexpress.us/item/3256808605622611.html
+Seeed Studio XIAO ESP32 C3,1,pcs,11.14,11.14,https://www.aliexpress.us/item/3256808047100037.html
 PSP 2-Axis Analog Thumb Joystick,1,pcs,3.50,3.50,https://www.adafruit.com/product/444
-0.96 inch OLED Display 128x64,1,pcs,1.87,1.87,https://www.aliexpress.us/item/2251832337475453.html
+0.96 inch OLED Display 128x64,1,pcs,1.91,1.91,https://www.aliexpress.us/item/2251832337475453.html
 Right Angle Slide Switch,1,pcs,1.00,1.00,https://www.alibaba.com/product-detail/Brand-New-Original-MST-12D18G4-SPDT_1601682630920.html
 4.7k Resistor,1,pcs,0.01,0.01,https://www.aliexpress.us/item/2251832130817202.html
-Temperature Sensor (DS18B20),1,pcs,0.95,0.95,https://aliexpress.us
+Temperature Sensor (DS18B20),1,pcs,0.48,0.48,https://www.aliexpress.us/item/3256808767131467.html
 Piezo Buzzer,1,pcs,0.50,0.50,https://www.aliexpress.us/item/3256810135642750.html
-Tactile Switch,3,pcs,2.26,6.78,https://www.aliexpress.us/item/3256807067168626.html
+Tactile Switch,3,pcs,0.23,0.68,https://www.aliexpress.us/item/3256807067168626.html
 M1.6 5mm Screws,7,pcs,0.03,0.21,https://www.aliexpress.us/item/2251832785290389.html
 M3 8mm Screws,3,pcs,0.04,0.13,https://www.aliexpress.us/item/2251832785290389.html
 M2 5mm Standoff,2,pcs,0.15,0.30,https://www.aliexpress.us/item/3256804631738035.html
 M2 Hex Nut,2,pcs,0.07,0.14,https://www.aliexpress.us/item/3256806284464354.html
-Battery,1,pcs,6.19,6.19,https://www.aliexpress.us/item/3256808658204287.html
+Battery,1,pcs,5.16,5.16,https://www.aliexpress.us/item/3256808658204287.html
 PLA 3D Printed Case,1,pcs,0,0,N/A
 PCB,1,pcs,0.40,0.40,https://jlcpcb.com
-Total,27,-,-,30.02,N/A
+Total,27,-,-,25.56,N/A
