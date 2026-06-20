@@ -57,8 +57,8 @@ Rendered on Fusion360!
 | M2 Hex Nut | 2 | pcs | 0.07 | 0.14 | 50 | 3.38 | [Link](https://www.aliexpress.us/item/3256806284464354.html) |
 | Battery | 1 | pcs | 5.16 | 5.16 | 1 | 5.16 | [Link](https://www.aliexpress.us/item/3256808658204287.html) |
 | PCB | 1 | pcs | 0.40 | 0.40 | 5 | 2.00 | [Link](https://jlcpcb.com) |
-| PLA 3D Printed Case | 1 | pcs | - | - | - | - |
-| **Total** | **27** | **-** | **-** | **25.56** | **-** | **45.84** | - |
+| PLA 3D Printed Case | 1 | pcs | - | - | - | - | - |
+| **Total** | **27** | **-** | **-** | **25.56** | **-** | **45.84** | **-** |
 
 # Build & Assembly
 Required Tools
